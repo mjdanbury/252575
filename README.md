@@ -8,7 +8,7 @@ On Saturday, I awoke to the following prompt for my Data Studio class:
 
 Great! I thought, flipping open my grid paper notebook. 25 is a square number, so lets start by drawing some squares on the grid with area 25. For the second approach, I decided to draw out the arabic numerals 75, 25, 25 in a blocky font. Lastly, I drew three more pairs of squares, two overlapping 25% and one pair overlapping 75%.
 
-I could have stopped here but felt like using the assignment as an opportunity to do some creative coding. I spun up a GPT terminal and asked for some code to generate a non-intersecting random walk of fixed length, and plot the results in a canvas element.
+I could have stopped here but felt like using the assignment as an opportunity to do some creative coding. I spun up a [GPT terminal](https://chat.openai.com/share/7c492dac-2db0-4445-aa13-0471c6452b99) and asked for some code to generate a non-intersecting random walk of fixed length, and plot the results in a canvas element.
 
 I imposed the non-intersecting condition so that the result would be a little tangly of 25 squares—just as the prompt specified. I added a few aesthetic tweaks as well as a button for users to click to regenerate random walks.
 
