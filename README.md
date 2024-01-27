@@ -20,6 +20,6 @@ As it turns out, self-avoiding walks are an area of active research in computati
 
 Also, the wimpy algorithm that GPT cooked up for me is woefuly insufficient. The standard approach in the research literature is called a "pivot algorithm" and people still publish papers about making it faster under certain conditions.
 
-Since there is no off the shelf implementation and the January sun was already getting low in the sky, I decided to shelf this project till another day. In the meatime you can play around with it and see how many valid walks you can generate before your luck runs out.
+Since there is no off the shelf implementation and the January sun was already getting low in the sky, I decided to shelf this project till another day. In the meatime you can [play around with it](https://mjdanbury.github.io/752525/) and see how many valid walks you can generate before your luck runs out.
 
 For more information, see the hilariously titled explainer ['How To Avoid Yourself'](http://bit-player.org/wp-content/extras/bph-publications/AmSci-1998-07-Hayes-self-avoidance.pdf).
