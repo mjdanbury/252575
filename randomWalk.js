@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const canvas = document.getElementById("walkCanvas");
   const button25 = document.getElementById("25");
-  const button75 = document.getElementById("75");
+  //   const button75 = document.getElementById("75");
   const ctx = canvas.getContext("2d");
   const gridSize = 50;
   const stepLength = canvas.width / gridSize;
