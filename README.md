@@ -1,6 +1,6 @@
 # 75 25 25
 
-## Or How A Drawing Prompt Led Me Down A Statistical Physics Rabbit Hole
+## Or How A Drawing Prompt Led Me Down A Wild Computational Physics Rabbit Hole
 
 On Saturday, I awoke to the following prompt for my Data Studio class:
 
